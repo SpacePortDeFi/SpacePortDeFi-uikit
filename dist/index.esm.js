@@ -2219,25 +2219,20 @@ var links = [
     },
 ];
 var socials = [
-  {
-      label: "Telegram",
-      icon: "TelegramIcon",
-      href: "https://t.me/SpacePortDeFi",
-  },
+    {
+        label: "Reddit",
+        icon: "RedditIcon",
+        href: "https://www.reddit.com/user/SpacePortDeFi",
+    },
     {
         label: "Twitter",
         icon: "TwitterIcon",
         href: "https://twitter.com/SpacePortDeFi",
     },
     {
-        label: "Github",
-        icon: "GithubIcon",
-        href: "https://github.com/SpacePortDeFi",
-    },
-    {
-        label: "Reddit",
-        icon: "RedditIcon",
-        href: "https://www.reddit.com/user/SpacePortDeFi",
+        label: "Telegram",
+        icon: "TelegramIcon",
+        href: "https://t.me/SpacePortDeFi",
     },
 ];
 var MENU_HEIGHT = 64;
