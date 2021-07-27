@@ -2219,11 +2219,7 @@ var links = [
     },
 ];
 var socials = [
-    {
-        label: "Reddit",
-        icon: "RedditIcon",
-        href: "https://www.reddit.com/user/SpacePortDeFi",
-    },
+
     {
         label: "Twitter",
         icon: "TwitterIcon",
@@ -2401,7 +2397,7 @@ var Panel = function (props) {
   return (React.createElement(StyledPanel, { isPushed: isPushed, showMenu: showMenu },
       React.createElement(PanelBody, __assign({}, props)),
     React.createElement("a", { target: "_blank", rel: "noreferrer", href: "https://rugdoc.io/project/spaceportdefi-polygon/" },
-    React.createElement("img", { src: "https://rugdoc.io/assets/2021/06/rugdoc-review-badge-with-glow.png" })),
+    React.createElement("img", { src: "/images/egg/rugdoc.png" })),
       React.createElement(PanelFooter, __assign({}, props))));
 };
 var templateObject_1$D;
